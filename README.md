@@ -1,11 +1,11 @@
 <div style="text-align: center;">
-    <img src="game of life_animation.gif" alt="Game of Life Animation" />
+    <img src="images/game of life_animation.gif" alt="Game of Life Animation" />
 </div>
 
 This is the term paper 1 for Modelling Complex Systems (idc621). I have chosen Conway's Game of Life as a model for my submission. I have done some tweaks to it. I have  recorded some interesting initial states, like the one above (spells GAME OF LIFE). This is an interactive zero-player game, so feel free to set different initial states and try it out yourself. Heres the number of live celss vs the generation of this initial state.
 
 <div style="text-align: center;">
-    <img src="game of lifefinal_live_cells_plot.png" alt="game of life plot" width="400" height="400"/>
+    <img src="images/game of lifefinal_live_cells_plot.png" alt="game of life plot" width="400" height="400"/>
 </div>
 
 # Conway's Game of life
