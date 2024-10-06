@@ -38,14 +38,14 @@ There are two kinds of neighbourhoods; Moore and von Neumann neighbourhood. Moor
 1. Moore Neighbourhood: In cellular automata, the Moore neighborhood is defined on a two-dimensional square lattice and is composed of a central cell and the eight cells that surround it. [[wikipedia]](https://en.wikipedia.org/wiki/Moore_neighborhood)
 
 <div style="text-align: center;">
-    <img src="mooreneighbourhood.png" alt="moore neighbourhood" width="160" height="160"/>
+    <img src="images/mooreneighbourhood.png" alt="moore neighbourhood" width="160" height="160"/>
 </div>
 
 
 2. Von Neumann Neighbourhood: In cellular automata, the von Neumann neighborhood (or 4-neighborhood) is classically defined on a two-dimensional square lattice and is composed of a central cell and its four adjacent cells. Here is an example of Von Neumann neighbourhood of a cell with a radius of 3. [[wikipedia]](https://en.wikipedia.org/wiki/Von_Neumann_neighborhood)
 
 <div style="text-align: center;">
-    <img src="von neumann neighbourhood.png" alt="von neumann neighbourhood" width="160" height="160"/>
+    <img src="images/von neumann neighbourhood.png" alt="von neumann neighbourhood" width="160" height="160"/>
 </div>
 
 
@@ -75,35 +75,35 @@ Common pattern types include: still lifes, which do not change from one generati
 
 - Block
 <div style="text-align: center;">
-    <img src="blockgif.gif" alt="block gif" width="200" height="200"/>
+    <img src="images/blockgif.gif" alt="block gif" width="200" height="200"/>
     <p><em>block</em></p>
 </div>
 
 - Beehive
 
 <div style="text-align: center;">
-    <img src="game_animationbeehive.gif" alt="beehive gif" width="200" height="200"/>
+    <img src="images/game_animationbeehive.gif" alt="beehive gif" width="200" height="200"/>
     <p><em>beehive</em></p>
 </div>
 
 - Loaf
 
 <div style="text-align: center;">
-    <img src="game_animationloaf.gif" alt="loaf gif" width="200" height="200"/>
+    <img src="images/game_animationloaf.gif" alt="loaf gif" width="200" height="200"/>
     <p><em>loaf</em></p>
 </div>
 
 - Boat
 
 <div style="text-align: center;">
-    <img src="game_animationboat.gif" alt="boat gif" width="200" height="200"/>
+    <img src="images/game_animationboat.gif" alt="boat gif" width="200" height="200"/>
     <p><em>boat</em></p>
 </div>
 
 - Tub
 
 <div style="text-align: center;">
-    <img src="game_animationtub.gif" alt="tub gif" width="200" height="200"/>
+    <img src="images/game_animationtub.gif" alt="tub gif" width="200" height="200"/>
     <p><em>tub</em></p>
 </div>
 
@@ -113,14 +113,14 @@ Common pattern types include: still lifes, which do not change from one generati
 - Blinker
 
 <div style="text-align: center;">
-    <img src="game_animationblinker.gif" alt="blinker gif" width="200" height="200"/>
+    <img src="images/game_animationblinker.gif" alt="blinker gif" width="200" height="200"/>
     <p><em>Blinker (period 2)</em></p>
 </div>
 
 - Toad
 
 <div style="text-align: center;">
-    <img src="game_animationtoad.gif" alt="toad gif" width="200" height="200"/>
+    <img src="images/game_animationtoad.gif" alt="toad gif" width="200" height="200"/>
     <p><em>Toad (period 2)</em></p>
 </div>
 
@@ -128,29 +128,29 @@ Common pattern types include: still lifes, which do not change from one generati
 
 
 <div style="text-align: center;">
-    <img src="game_animationbeacon.gif" alt="Beacon gif" width="200" height="200"/>
+    <img src="images/game_animationbeacon.gif" alt="Beacon gif" width="200" height="200"/>
     <p><em>Beacon (period 15)</em></p>
 </div>
 
 - Pulsar
 <div style="text-align: center;">
-    <img src="game_animationpulsar.gif" alt="pulsar gif" width="200" height="200"/>
+    <img src="images/game_animationpulsar.gif" alt="pulsar gif" width="200" height="200"/>
     <p><em>pulsar (period 3)</em></p>
 </div>
 
 <div style="text-align: center;">
-    <img src="final_live_cells_plotpulsar.png" alt="final plot pulsar" width="300" height="300"/>
+    <img src="images/final_live_cells_plotpulsar.png" alt="final plot pulsar" width="300" height="300"/>
     <p><em>Population vs generation for a Pulsar</em></p>
 </div>
 
 - Pentadecathlon
 <div style="text-align: center;">
-    <img src="game_animationoscillator.gif" alt="oscillators gif" width="200" height="200"/>
+    <img src="images/game_animationoscillator.gif" alt="oscillators gif" width="200" height="200"/>
     <p><em>pentadecathlon (period 15)</em></p>
 </div>
 
 <div style="text-align: center;">
-    <img src="final_live_cells_plotoscillator.png" alt="final plot oscillator" width="300" height="300"/>
+    <img src="images/final_live_cells_plotoscillator.png" alt="final plot oscillator" width="300" height="300"/>
     <p><em>Population vs generation for a pentadecathlon</em></p>
 </div>
 
@@ -159,19 +159,19 @@ Common pattern types include: still lifes, which do not change from one generati
 - Glider
 
 <div style="text-align: center;">
-    <img src="game_animationglider.gif" alt="glider gif" width="200" height="200"/>
+    <img src="images/game_animationglider.gif" alt="glider gif" width="200" height="200"/>
     <p><em>Glider</em></p>
 </div>
 
 <div style="text-align: center;">
-    <img src="final_live_cells_plotglider.png" alt="final plot gospers" width="300" height="300"/>
+    <img src="images/final_live_cells_plotglider.png" alt="final plot gospers" width="300" height="300"/>
     <p><em>Population vs generation</em></p>
 </div>
 
 - Light weight spaceship (LWSS):
 
 <div style="text-align: center;">
-    <img src="game_animationlwss.gif" alt="lwss gif" width="1000" height="200"/>
+    <img src="images/game_animationlwss.gif" alt="lwss gif" width="1000" height="200"/>
     <p><em>Light weight spaceship</em></p>
 </div>
 
@@ -181,12 +181,12 @@ As you can see something really interesting happens because of the boundary cond
 ## Gosper's glider: 
 
 <div style="text-align: center;">
-    <img src="game_animationgospers glider.gif" alt="gospers glider gif" width="200" height="200"/>
+    <img src="images/game_animationgospers glider.gif" alt="gospers glider gif" width="200" height="200"/>
     <p><em>Gosper's Glider Gun</em></p>
 </div>
 
 <div style="text-align: center;">
-    <img src="final_live_cells_plotgospers.png" alt="final plot glider" width="300" height="300"/>
+    <img src="images/final_live_cells_plotgospers.png" alt="final plot glider" width="300" height="300"/>
     <p><em>Population vs generation</em></p>
 </div>
 
@@ -202,14 +202,14 @@ A randomly generated initial state will obviously have an unpredictable result. 
 
 
 <div style="text-align: center;">
-    <img src="game_animationrandomgen.gif" alt="random gen gif" width="200" height="200"/>
+    <img src="images/game_animationrandomgen.gif" alt="random gen gif" width="200" height="200"/>
     <p><em>A random initial state</em></p>
 </div>
 
 We can clearly see that the population decreases significantly yet not so much to go extinct, but reaches a quite steady state with some oscillators, and very coomon still lifes. The observation is clearly seen in the population vs generation plot below. If you carefully observe youo can see that the gradient of colours is very gradual and the inheritance pattern is visible. 
 
 <div style="text-align: center;">
-    <img src="final_live_cells_plotrandomgen.png" alt="final plot random" width="300" height="300"/>
+    <img src="images/final_live_cells_plotrandomgen.png" alt="final plot random" width="300" height="300"/>
     <p><em>Population vs generation</em></p>
 </div>
 
@@ -219,14 +219,14 @@ We can clearly see that the population decreases significantly yet not so much t
 As my code is an interactive one, I have the freedom to perturb it whenever I want. I can paint on a few live cells or kill a live cell. Here are some observations that have been through the perturbation.
 
 <div style="text-align: center;">
-    <img src="game_animationperturbation.gif" alt="perturbation gen gif" width="200" height="200"/>
+    <img src="images/game_animationperturbation.gif" alt="perturbation gen gif" width="200" height="200"/>
     <p><em>Adding a perturbation</em></p>
 </div>
 
 It is clearly visible when the perturbtion was added. An alternative is if you see a stable state then perturb the system with the mouse by disturbing the stability and making it either evolve or die or go back to the same or a different still state. Here is the plot of popultion vs generation.
 
 <div style="text-align: center;">
-    <img src="final_live_cells_plotperturbation.png" alt="plot perturbation gen gif" width="200" height="200"/>
+    <img src="images/final_live_cells_plotperturbation.png" alt="plot perturbation gen gif" width="200" height="200"/>
     <p><em>Population vs generation</em></p>
 </div>
 
@@ -252,13 +252,13 @@ Here are the modified rules for the genetic model of Conway's game of life. I ha
 The simulation with color is extremely beautiful and insightful to look at. And tells us about the inheritance of dominant trait (color).
 
 <div style="text-align: center;">
-    <img src="colorrandom gif.gif" alt="plot colorrandom gen gif" width="200" height="200"/>
+    <img src="images/colorrandom gif.gif" alt="plot colorrandom gen gif" width="200" height="200"/>
     <p><em>Random generation</em></p>
 </div>
 
 And accordingly heres the plot of population vs generation.
 <div style="text-align: center;">
-    <img src="colorrandom.png" alt="plot color" width="200" height="200"/>
+    <img src="images/colorrandom.png" alt="plot color" width="200" height="200"/>
     <p><em>Population vs generation</em></p>
 </div>
 
@@ -275,13 +275,13 @@ Some other observations are:
 - If a region is alive for a while then the colors become belnded and less distinct. Much like what happens in inheritance of genes.
 
 <div style="text-align: center;">
-    <img src="game_animationcolor.gif" alt="plot colorrandom gen gif" width="200" height="200"/>
+    <img src="images/game_animationcolor.gif" alt="plot colorrandom gen gif" width="200" height="200"/>
     <p><em>Random generation</em></p>
 </div>
 
 And again accordingly heres the plot of population vs generation.
 <div style="text-align: center;">
-    <img src="final_live_cells_plotcolor.png" alt="plot color" width="200" height="200"/>
+    <img src="images/final_live_cells_plotcolor.png" alt="plot color" width="200" height="200"/>
     <p><em>Population vs generation</em></p>
 </div>
 
@@ -310,4 +310,4 @@ https://www.youtube.com/watch?v=R9Plq-D1gEk
 
 [3] Conway's Game of Life https://pi.math.cornell.edu/~lipa/mec/lesson6.html
 
-[4] STack exchange https://math.stackexchange.com/questions/1536288/what-are-the-practical-uses-of-game-of-life-or-langtons-ant
+[4] Stack exchange https://math.stackexchange.com/questions/1536288/what-are-the-practical-uses-of-game-of-life-or-langtons-ant
